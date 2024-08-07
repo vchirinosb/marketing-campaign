@@ -1,0 +1,5 @@
+Original Description:
+Client ID 0. Age 58, job management, marital status married, education tertiary. Default status no, balance 2143 EUR, housing yes, loan no. Contacted via unknown on 5 may. Last contact duration 261 sec, campaign 1 contacts, days since last campaign -1, previous 0 contacts, previous outcome unknown. Subscription status no.
+Generated Summary:
+Summarize this description: Client ID 0. Age 58, job management, marital status married, education tertiary. Default status no, balance 2143 EUR, housing yes, loan no. Contacted via unknown on 5 may. Last contact duration 261 sec, campaign 1 contacts, days since last campaign -1, previous 0 contacts, previous outcome unknown. Subscription status no. Contacted via unknown on 5 may. Last contact duration 261 sec, campaign 1 contacts, days since last campaign -1, previous 0 contacts, previous outcome unknown. Subscription status no. Contacted via unknown on 5 may. Last contact duration 261 sec, campaign 1 contacts, days since last campaign -1, previous 0 contacts, previous outcome unknown. Subscription
+

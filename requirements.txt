@@ -7,3 +7,7 @@ torch==2.2.2
 numpy==1.26.4
 wheel==0.43.0
 setuptools==65.5.0
+
+# Required for T5
+sentencepiece==0.2.0
+protobuf==5.27.3

@@ -84,3 +84,9 @@ db.sqlite3
 
 # kbdx
 *.kdbx
+
+# Exclude trained models
+results/
+results_gpt2/
+saved_t5_model/
+saved_t5_tokenizer/

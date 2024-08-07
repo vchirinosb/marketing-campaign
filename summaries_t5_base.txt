@@ -1,0 +1,5 @@
+Original Description:
+Client age 58, job management, marital status married, education tertiary. Balance 2143 EUR, housing yes, loan no. Contacted via unknown on 5 may. Last contact duration 261 sec, campaign 1 contacts, days since last campaign -1, previous outcome unknown. Subscription status no.
+Generated Summary:
+client age 58, job management, marital status married, education tertiary. Contacted via unknown on 5 may.
+

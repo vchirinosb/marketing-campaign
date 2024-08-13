@@ -1,15 +1,30 @@
 # Requerimientos para Proyecto de Software de Inteligencia Artificial**
 
 ## **1. Resumen del Proyecto**
-- **Nombre del Proyecto:**  
-- **Descripción General:**  
-- **Objetivo Principal:**  
+- **Nombre del Proyecto:**
+  
+  Campañas de Marketing directo para depósitos bancarios a plazo fijo.
+  
+- **Descripción General:**
+
+  El dataset corresponde a una recopilación de datos relacionados a campañas de marketing, realizados mediante llamadas telefónicas a los clientes.
+  
+- **Objetivo Principal:**
+
+  Predecir la aceptación de un depósito a plazo fijo ofrecido por la entidad bancaria.
+  
 - **Stakeholders:**  
   - **Cliente:**  
   - **Equipo de Desarrollo:**  
   - **Usuarios Finales:**  
-- **Fecha de Inicio:**  
-- **Fecha Estimada de Finalización:**  
+- **Fecha de Inicio:**
+
+  07.2024
+  
+- **Fecha Estimada de Finalización:**
+
+  08.2024
+  
 
 ## **2. Contexto y Alcance**
 - **Contexto del Proyecto:**  

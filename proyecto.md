@@ -1,17 +1,21 @@
 # Requerimientos para Proyecto de Software de Inteligencia Artificial**
 
+## **1. Prototipo**
+
+Crear un agente que reciba un stock, obtenga su información actual e histórica de los últimos 30 dias, obtenga las balances financieros y noticias relacionadas. La información procesada brindará como output la recomendación en relación al stock si comprar, vender, o mantener "On hold" con su respectiva justificación.
+
 ## **1. Resumen del Proyecto**
 - **Nombre del Proyecto:**
   
-  Campañas de Marketing directo para depósitos bancarios a plazo fijo.
+  Sistema de recomendación de stock.
   
 - **Descripción General:**
 
-  El dataset corresponde a una recopilación de datos relacionados a campañas de marketing, realizados mediante llamadas telefónicas a los clientes.
+  
   
 - **Objetivo Principal:**
 
-  Predecir la aceptación de un depósito a plazo fijo ofrecido por la entidad bancaria.
+  Recomendación si comprar, vender o mantener "On hold" un stock.
   
 - **Stakeholders:**  
   - **Cliente:**  
